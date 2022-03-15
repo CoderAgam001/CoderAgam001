@@ -13,7 +13,7 @@ I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && Graphics 
 ## What Inspired Me To Learn To Code
 My cousin elder brother [@dynamicsingh](https://github.com/dynamicsingh) is my **Inspiration** and **Role Model**, who inspired me to learn programming.
 
-I wrote my first line of code on **11th June, 2019** in **C++**.
+I wrote my first lines of code on **11th June, 2019** in **C++**.
 
 ## I'm Comfortable Working With
 1. Python
@@ -26,6 +26,8 @@ I wrote my first line of code on **11th June, 2019** in **C++**.
 8. Adobe XD
 9. Canva
 10. Bugs :) {I'm good at Debugging Python Codes}
+
+## Find Me On My Socials [Here](https://linktr.ee/coderagam001) 
 
 ## Github Stats
 [![Agamdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithAgam&theme=onedark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/CodeWithAgam/github-readme-stats)
