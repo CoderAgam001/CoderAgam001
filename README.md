@@ -15,10 +15,6 @@ My cousin elder brother [@dynamicsingh](https://github.com/dynamicsingh) is my *
 
 I wrote my first line of code on **11th June, 2019** in **C++**.
 
-## My Skills
-### I can code in:
-
-
 ## Github Stats
 [![Agamdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithAgam&theme=onedark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/CodeWithAgam/github-readme-stats)
 
