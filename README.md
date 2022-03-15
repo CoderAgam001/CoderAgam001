@@ -22,11 +22,13 @@ I wrote my first line of code on **11th June, 2019** in **C++**.
 ## Github Stats
 [![Agamdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithAgam&theme=onedark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/CodeWithAgam/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAgam&theme=onedark)](https://github.com/CodeWithAgam/github-readme-stats)
+
 ## Pinned Repos
-[![Conversion Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Conversion-Calculator)](https://github.com/CodeWithAgam/Conversion-Calculator) [![Hangman Game Clone](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Hangman-Clone-Python)](https://github.com/CodeWithAgam/Hangman-Clone-Python)
+[![Conversion Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Conversion-Calculator&theme=onedark)](https://github.com/CodeWithAgam/Conversion-Calculator) [![Hangman Game Clone](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Hangman-Clone-Python&theme=onedark)](https://github.com/CodeWithAgam/Hangman-Clone-Python)
 
-[![Coin Toss Game](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=CoinTossGame)](https://github.com/CodeWithAgam/CoinTossGame) [![Live Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Live-Code-Editor)](https://github.com/CodeWithAgam/Live-Code-Editor)
+[![Coin Toss Game](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=CoinTossGame&theme=onedark)](https://github.com/CodeWithAgam/CoinTossGame) [![Live Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Live-Code-Editor&theme=onedark)](https://github.com/CodeWithAgam/Live-Code-Editor)
 
-[![The Periodic Name](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=The-Periodic-Name)](https://github.com/CodeWithAgam/The-Periodic-Name) [![The PyMaster Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=The-PyMaster-Calculator)](https://github.com/CodeWithAgam/The-PyMaster-Calculator)
+[![The Periodic Name](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=The-Periodic-Name&theme=onedark)](https://github.com/CodeWithAgam/The-Periodic-Name) [![The PyMaster Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=The-PyMaster-Calculator&theme=onedark)](https://github.com/CodeWithAgam/The-PyMaster-Calculator)
 
-[![Python Rock Paper Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Python-Rock-Paper-Scissors)](https://github.com/CodeWithAgam/Python-Rock-Paper-Scissors)
+[![Python Rock Paper Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=CodeWithAgam&repo=Python-Rock-Paper-Scissors&theme=onedark)](https://github.com/CodeWithAgam/Python-Rock-Paper-Scissors)
