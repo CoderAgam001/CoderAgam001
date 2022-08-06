@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img alt="Header" src="GithubBanner.gif" width="900"/>
+  <img alt="Header" src="GithubBanner.gif" width="800"/>
 </div>
 
 # About Myself
@@ -8,7 +8,7 @@
 
 I'm Agamdeep Singh, a 13 year-old, from Delhi, India.
 
-I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && Graphics Designer, currently improving my Python Skills and Building Projects.
+I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && **Graphics Designer**, currently improving my Python Skills and Building Projects.
 
 ## What Inspired Me To Learn To Code
 My cousin elder brother [@dynamicsingh](https://github.com/dynamicsingh) is my **Inspiration** and **Role Model**, who inspired me to learn programming.
