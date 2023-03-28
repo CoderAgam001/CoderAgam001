@@ -6,7 +6,7 @@
 
 ### Hey, Everyone.
 
-I'm Agamdeep Singh, a 13 year-old, from Delhi, India.
+I'm Agamdeep Singh, a 14 year-old, from Delhi, India.
 
 I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && **Graphics Designer**, currently improving my Python Skills and Building Projects.
 
