@@ -6,14 +6,14 @@
 
 ### Hey, Everyone.
 
-I'm Agamdeep Singh, a 14 year-old, from Delhi, India.
+I'm Agamdeep Singh, a 15-year-old, from Delhi, India.
 
-I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && **Graphics Designer**, currently improving my Python Skills and Building Projects.
+I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && **Graphics Designer**, improving my Python Skills and Building Projects.
 
 ## What Inspired Me To Learn To Code
-My cousin elder brother [@dynamicsingh](https://github.com/dynamicsingh) is my **Inspiration** and **Role Model**, who inspired me to learn programming.
+My cousin brother [@dynamicsingh](https://github.com/dynamicsingh) is my **Inspiration** and **Role Model**, who inspired me to learn programming.
 
-I wrote my first lines of code on **11th June, 2019** in **C++**.
+I wrote my first lines of code on **11th June 2019** in **C++** and celebrate this day yearly as my "CodeVerse Day". It's a weird name but it sounds great and is just the right fit!
 
 ## I'm Comfortable Working With
 1. Python
