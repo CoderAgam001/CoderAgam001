@@ -35,10 +35,8 @@ I wrote my first lines of code on **11th June 2019** in **C++** and celebrate th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAgam001&theme=onedark)](https://github.com/CoderAgam001/github-readme-stats)
 
 ## Pinned Repos
-[![Conversion Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Conversion-Calculator&theme=onedark)](https://github.com/CoderAgam001/Conversion-Calculator) [![Hangman Game Clone](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Hangman-Clone-Python&theme=onedark)](https://github.com/CoderAgam001/Hangman-Clone-Python)
+[![Hangman Game Clone](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Hangman-Clone-Python&theme=onedark)](https://github.com/CoderAgam001/Hangman-Clone-Python) [![Coin Toss Game](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=CoinTossGame&theme=onedark)](https://github.com/CoderAgam001/CoinTossGame)
 
-[![Coin Toss Game](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=CoinTossGame&theme=onedark)](https://github.com/CoderAgam001/CoinTossGame) [![Live Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Live-Code-Editor&theme=onedark)](https://github.com/CoderAgam001/Live-Code-Editor)
+[![Live Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Live-Code-Editor&theme=onedark)](https://github.com/CoderAgam001/Live-Code-Editor) [![The Periodic Name](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=The-Periodic-Name&theme=onedark)](https://github.com/CoderAgam001/The-Periodic-Name)
 
-[![The Periodic Name](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=The-Periodic-Name&theme=onedark)](https://github.com/CoderAgam001/The-Periodic-Name) [![The PyMaster Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=The-PyMaster-Calculator&theme=onedark)](https://github.com/CoderAgam001/The-PyMaster-Calculator)
-
-[![Python Rock Paper Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Python-Rock-Paper-Scissors&theme=onedark)](https://github.com/CoderAgam001/Python-Rock-Paper-Scissors)
+[![The PyMaster Calculator](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=The-PyMaster-Calculator&theme=onedark)](https://github.com/CoderAgam001/The-PyMaster-Calculator) [![Python Rock Paper Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=CoderAgam001&repo=Python-Rock-Paper-Scissors&theme=onedark)](https://github.com/CoderAgam001/Python-Rock-Paper-Scissors)
