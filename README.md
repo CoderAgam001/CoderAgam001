@@ -1,31 +1,28 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img alt="Header" src="GithubBanner.gif" width="800"/>
-</div>
+</div> -->
 
-# About Myself
+### Hey, Fellow Devs! 👋🏻
 
-### Hey, Everyone.
+I'm Agamdeep Singh 🤓, better known by my pen name, CoderAgam001 😎 — a 17-year-old passionate programmer and learner from Delhi, India.
 
-I'm Agamdeep Singh; better known by my pen name as CoderAgam001, a 15-year-old from Delhi; India.
+I'm an **Intermediate+ {Python} Programmer** 🐍; ***$* Web Developer/** 👨🏻‍💻 && **Graphics Designer** 🎨, currently mastering the domain of **AI/ML** 🤖, whilst improving upon Python & SQL and Building Projects to showcase my work!
 
-I'm an **Intermediate {Python} Programmer**, ***$* Web Developer/** && **Graphics Designer**, improving my Python Skills and Building Projects.
+I celebrate **11th of June** every year, as my _CodeVersery_ (I wrote my first code on 11th June, 2019)
+Personally, it feels a little absurd, but absurdness is everything the developers are best at!😉
 
-## What Inspired Me To Learn To Code
-[@dynamicsingh](https://github.com/dynamicsingh) is my **Inspiration** and **Role Model**, who inspired me to learn programming.
-
-I wrote my first lines of code on **11th June 2019** in **C++** and celebrate this day yearly as my "CodeVerse Day". It's a weird name but it sounds great and is just the right fit!
-
-## I'm Comfortable Working With
+## Tools & Technologies I Work With:
 1. Python
-2. HTML+CSS
-3. JavaScript
-4. VS Code
-5. Adobe Photoshop
-6. Adobe Illustrator
-7. Adobe Photoshop Express
-8. Adobe XD
-9. Canva
-10. Bugs :) {I'm good at Debugging Python Codes}
+2. SQL
+3. HTML+CSS
+4. JavaScript
+5. VS Code
+6. Adobe Photoshop
+7. Adobe Illustrator
+8. Adobe Photoshop Express
+9. Adobe XD
+10. Canva
+11. Bugs :) {I'm good at Debugging}
 
 ## Find Me On My Socials [Here](https://linktr.ee/coderagam001) 
 
