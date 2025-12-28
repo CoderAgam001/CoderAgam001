@@ -1,15 +1,9 @@
-<!-- <div id="header" align="center">
-  <img alt="Header" src="GithubBanner.gif" width="800"/>
-</div> -->
-
 ### Hey, Fellow Devs! 👋🏻
 
-I'm Agamdeep Singh 🤓, better known by my pen name, CoderAgam001 😎 — a 17-year-old passionate programmer and learner from Delhi, India.
+I'm Agamdeep Singh 🤓, better known by my pen name, CoderAgam001 😎 — programmer and learner from Delhi, India.
 
-I'm an **Intermediate+ {Python} Programmer** 🐍; & **Graphics Designer** 🎨, currently mastering the domain of **AI/ML** 🤖, whilst improving upon Python & SQL and Building Projects to showcase my work!
+I'm an **Intermediate+ {Python} Programmer** 🐍 and **Graphic Designer** 🎨, currently mastering the domain of **AI/ML** & **Agentic Systems** 🤖, and Building Projects to showcase my work!
 
-I celebrate **11th of June** every year, as my _CodeVersery_ (I wrote my first code on 11th June, 2019)
-Personally, it feels a little absurd, but absurdness is everything the developers are best at!😉
 
 ## Tools & Technologies I Work With:
 1. Python
